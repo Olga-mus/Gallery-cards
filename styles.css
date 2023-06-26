@@ -27,7 +27,7 @@ body {
   margin: 10px;
   cursor: pointer;
   color: #fff;
-  flex: 1;
+  flex-grow: 1;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -45,7 +45,7 @@ body {
 }
 
 .slide.active {
-  flex: 10;
+  flex-grow: 10;
 }
 
 .slide.active h3 {

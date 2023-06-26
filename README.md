@@ -20,7 +20,7 @@ Flexbox, HTML, CSS, Java Script, css-анимация.
 
 **Ссылка на проект:**
 
-[GitHub Pages]()
+[GitHub Pages](https://olga-mus.github.io/gallery-cards/index.html)
 
 **Статус проекта:**
 
